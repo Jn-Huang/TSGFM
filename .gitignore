@@ -293,4 +293,6 @@ GLBench_*/
 GLBench_*/*
 
 Experiment/
-Experiment/*minilmdata.zip
+Experiment/*
+
+minilmdata.zip
